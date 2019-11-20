@@ -1,0 +1,26 @@
+[range]
+#row	scaf	start	end
+1	chr18	45614000	45682600
+2	Contig139	90000	192000
+3	Contig9887	1	19250
+3	Contig5919	1	24766
+3	Contig33053	1	9166
+3	Contig4976	1	30806
+
+[gene]
+#row	ID
+1	ENSP00000465953	+
+2	ENSP00000465953-D1	-
+3	ENSOANP00000011842	+
+3	ENSOANP00000030166	+
+3	ENSOANP00000021874	+
+3	ENSOANP00000028130	+
+
+[aln]
+#row1	row2	scaf1	scaf2	orient1	orient2
+1	2	chr18	Contig139	+	-
+2	3	Contig139	Contig9887	-	+
+2	3	Contig139	Contig5919	-	+
+2	3	Contig139	Contig33053	-	+
+2	3	Contig139	Contig4976	-	+
+
